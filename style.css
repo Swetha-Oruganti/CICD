@@ -1,0 +1,75 @@
+    html {
+        font-family: "Caveat", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        background-color: black;
+    }
+    
+    h1 {
+        text-align: center;
+        color: white;
+    }
+    
+    #name {
+        color: #F5CBCB;
+    }
+    
+    #Age::selection {
+        background-color: #FF8282;
+        color: #DBFFCB;
+    }
+    
+    #name::selection {
+        color: #6FE6FC;
+        background-color: #F7CFD8;
+    }
+    
+    #Specialisation::selection {
+        background-color: #fcae6f;
+        color: #201c28
+    }
+    
+    #dept::selection {
+        background-color: #ecd41e;
+        color: #97fe43
+    }
+    
+    #college::selection {
+        background-color: #d24c7b;
+        color: #EBD6FB;
+    }
+    
+    #DOB::selection {
+        background-color: #6FE6FC;
+        color: #FE7743
+    }
+    
+    #stid::selection {
+        background-color: #DEE791;
+        color: #4350fe
+    }
+    
+    #stid {
+        color: #DEE791;
+    }
+    
+    #college {
+        color: #FE7743;
+    }
+    
+    #dept {
+        color: #9ECAD6;
+    }
+    
+    #Specialisation {
+        color: #CFFFE2;
+    }
+    
+    #DOB {
+        color: #EBD6FB;
+    }
+    
+    #Age {
+        color: #DDF6D2;
+    }
